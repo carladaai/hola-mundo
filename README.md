@@ -1,2 +1,7 @@
 # hola-mundo
-Mi primer repositorio para la TUP
+
+Mi primer repositorio en GitHub
+
+11 ratas 1 sueño 🐭
+
+**TUP**
